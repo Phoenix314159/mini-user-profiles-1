@@ -1,0 +1,12 @@
+.favorite {
+    background-color: lightblue
+}
+
+main{
+    position: absolute;
+    left:40%;
+    top:10%;
+}
+body{
+    background-color: #4cae4c;
+}
